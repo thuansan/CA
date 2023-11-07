@@ -1,12 +1,10 @@
-# Project Title
+# CA
 
 This project is developed using the **MARS MIPS Assembly Language**.
 
 ## About The Project
 
-Provide a brief description of your project here.
-
-## Getting Started
+tictactoe 5x5, four in a row
 
 ### Prerequisites
 
