@@ -14,5 +14,5 @@ This project requires the **MARS MIPS simulator**. You can download it from the 
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   https://github.com/thuansan/CA.git
 
