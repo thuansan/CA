@@ -1,4 +1,4 @@
-# CA ♥️
+# CA ♥️ ❤️
 
 This project is developed using the **MARS MIPS Assembly Language**.
 
